@@ -1,0 +1,1 @@
+memproses video bahasa isyarat dari YouTube dengan mendeteksi gerakan dan membaginya menjadi segmen-segmen berdasarkan perubahan gerakan. Setiap segmen yang terdeteksi akan disimpan dalam bentuk file video terpisah dan dikompresi menjadi file ZIP untuk memudahkan pengunduhan.
